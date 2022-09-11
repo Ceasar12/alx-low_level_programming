@@ -1,1 +1,1 @@
-print alphabet
+print alphabet 3
