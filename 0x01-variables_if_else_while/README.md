@@ -1,1 +1,1 @@
-print alphabet 4
+print numbers
