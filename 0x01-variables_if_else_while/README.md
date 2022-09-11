@@ -1,1 +1,1 @@
-positive, negative, or zero
+1 last digit
