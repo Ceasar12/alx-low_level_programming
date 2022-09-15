@@ -1,1 +1,1 @@
-Write a function that draws a diagonal line on the terminal.
+Write a function that prints a triangle, followed by a new line.
