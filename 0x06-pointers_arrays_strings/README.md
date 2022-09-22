@@ -1,1 +1,1 @@
-Write a function that compares two strings.
+Write a function that encodes a string into 1337.
