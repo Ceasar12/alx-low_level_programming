@@ -1,1 +1,1 @@
-0x07. C - Even more pointers, arrays and strings
+Task 0 1 2 3 4 pointers and arrays 7
